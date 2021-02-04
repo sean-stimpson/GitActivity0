@@ -20,8 +20,7 @@ In this task, you will run commands to make sure that you have the latest code a
     ```
     git checkout master
     ```  
-
-    Once you are certain you are on the master branch, get the latest code using a fetch and a pull.  You can run them individually, or all at once.  To run them individually, use the following commands:  
+ mastefdsafdsar branch, get the latest code using a fetch and a pull.  You can run them individually, or all at once.  To run them individually, use the following commands:  
 
     ```  
     git fetch
